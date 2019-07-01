@@ -3,7 +3,7 @@ module github.com/choria-io/go-network-broker
 go 1.12
 
 require (
-	github.com/choria-io/go-config v0.0.2-0.20190701135155-384a335a9316
+	github.com/choria-io/go-config v0.0.2-0.20190701140718-e5779929ca3e
 	github.com/choria-io/go-srvcache v0.0.2
 	github.com/golang/mock v1.3.1
 	github.com/nats-io/jwt v0.2.8
