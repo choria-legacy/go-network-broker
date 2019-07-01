@@ -6,6 +6,7 @@ require (
 	github.com/choria-io/go-config v0.0.1
 	github.com/choria-io/go-srvcache v0.0.2
 	github.com/golang/mock v1.3.1
+	github.com/nats-io/jwt v0.2.6
 	github.com/nats-io/nats-server/v2 v2.0.0
 	github.com/onsi/ginkgo v1.8.0
 	github.com/onsi/gomega v1.5.0
