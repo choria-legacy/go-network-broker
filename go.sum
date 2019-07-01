@@ -11,6 +11,8 @@ github.com/blang/semver v3.5.1+incompatible/go.mod h1:kRBLl5iJ+tD4TcOOxsy/0fnweb
 github.com/briandowns/spinner v0.0.0-20181029155426-195c31b675a7/go.mod h1:hw/JEQBIE+c/BLI4aKM8UU8v+ZqrD3h7HC27kKt8JQU=
 github.com/choria-io/go-config v0.0.1 h1:5vvMB5MXdoZiK7GA35XKmnEqrznkb2CaaxEdXpN1ju0=
 github.com/choria-io/go-config v0.0.1/go.mod h1:YEb0InKPzG3wRSbfN3xZ/MjQ1FEzbmeq9FAo6yUnylM=
+github.com/choria-io/go-config v0.0.2-0.20190701135155-384a335a9316 h1:HyJk6tbH54qC6Il5VKt/44IngniJQl223hu995z0EQQ=
+github.com/choria-io/go-config v0.0.2-0.20190701135155-384a335a9316/go.mod h1:YEb0InKPzG3wRSbfN3xZ/MjQ1FEzbmeq9FAo6yUnylM=
 github.com/choria-io/go-confkey v1.2.0 h1:kT35wUPPxpKDAg2/Me100yIV+po6aTrnZFyBXk0Ohn8=
 github.com/choria-io/go-confkey v1.2.0/go.mod h1:ojIUK4p2mX/ZSKuSG5hgU/p7Db+EIX8il4yjQweZtiU=
 github.com/choria-io/go-puppet v0.0.1 h1:vvvMwgLeZDjHXGHhMVAVC9YwMKegcywSqrmyFcnD/jk=
