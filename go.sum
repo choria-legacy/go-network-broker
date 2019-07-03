@@ -16,8 +16,8 @@ github.com/choria-io/go-confkey v1.2.0 h1:kT35wUPPxpKDAg2/Me100yIV+po6aTrnZFyBXk
 github.com/choria-io/go-confkey v1.2.0/go.mod h1:ojIUK4p2mX/ZSKuSG5hgU/p7Db+EIX8il4yjQweZtiU=
 github.com/choria-io/go-puppet v0.0.1 h1:vvvMwgLeZDjHXGHhMVAVC9YwMKegcywSqrmyFcnD/jk=
 github.com/choria-io/go-puppet v0.0.1/go.mod h1:wjpGRZkoInlkJkmIASEgndXHeofu0uzkLJjo9A2PTxI=
-github.com/choria-io/go-srvcache v0.0.2 h1:Ss1fcONZ7v+BQZGn0nDvaKj1IZJkdq30LjFfXOBvPPk=
-github.com/choria-io/go-srvcache v0.0.2/go.mod h1:yikJnY5uDvA5/NV0V5Ipv2SbFBneU0bKB6JcMSqktdg=
+github.com/choria-io/go-srvcache v0.0.6-0.20190702115423-9be7f387d0ab h1:25RJM+PRwTyF/zAmnyuAPHpgWPh20bw/ZAwQXsU4E78=
+github.com/choria-io/go-srvcache v0.0.6-0.20190702115423-9be7f387d0ab/go.mod h1:1eOKVaRziNIPfgRe8koxDikrQOxlsl/vI5DdOBROszk=
 github.com/choria-io/go-validator v1.1.1 h1:i4NlCDwQURYAjjMwlZ5R/HsDJU8XpYmAm8yuBu4Mu28=
 github.com/choria-io/go-validator v1.1.1/go.mod h1:NLPcHQsPaKa6dc6JvGHtCdoszkOqNJzDLMRETy05dgM=
 github.com/cpuguy83/go-md2man v1.0.10/go.mod h1:SmD6nW6nTyfqj6ABTjUi3V3JVMnlJmwcJI5acqYI6dE=

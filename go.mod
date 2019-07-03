@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/choria-io/go-config v0.0.2-0.20190702155035-c72ef6743272
-	github.com/choria-io/go-srvcache v0.0.2
+	github.com/choria-io/go-srvcache v0.0.6-0.20190702115423-9be7f387d0ab
 	github.com/golang/mock v1.3.1
 	github.com/nats-io/jwt v0.2.8
 	github.com/nats-io/nats-server/v2 v2.0.1-0.20190701212751-a171864ae7df
