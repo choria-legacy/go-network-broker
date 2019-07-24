@@ -7,7 +7,7 @@ require (
 	github.com/choria-io/go-srvcache v0.0.6-0.20190702115423-9be7f387d0ab
 	github.com/golang/mock v1.3.1
 	github.com/nats-io/jwt v0.2.8
-	github.com/nats-io/nats-server/v2 v2.0.2
+	github.com/nats-io/nats-server/v2 v2.0.3-0.20190723153225-9cf534bc5e97
 	github.com/nats-io/nsc v0.0.0-20190709214737-97aa65e50c37
 	github.com/onsi/ginkgo v1.8.0
 	github.com/onsi/gomega v1.5.0
